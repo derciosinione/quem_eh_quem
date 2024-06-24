@@ -1,0 +1,6 @@
+4
+id:nome:genero:cabelo:cor:olhos:oculos:barba:chapeu
+0:Joao:masculino:liso:castanho:castanhos:sim:nao:sim
+1:Mario:masculino:careca:-:azuis:nao:nao:nao
+2:Sofia:feminino:ondulado:castanho:castanhos:nao:nao:sim
+3:Joana:feminino:liso:castanho:verdes:sim:nao:nao
